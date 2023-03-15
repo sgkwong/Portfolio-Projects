@@ -1,5 +1,5 @@
 # Portfolio-Projects
-This repository will hold all of my Python and Power Bi Projects.
+This repository will hold all of my Python and PowerBi Projects.
 
 Currently, I have a Yahoo Finance Web Scraper Project (Part 1) and an Exploratory Data Analysis on Home Loan Data on Python.
 
